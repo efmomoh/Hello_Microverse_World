@@ -24,10 +24,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Hello Microverse World] <a name="about-project"></a>
 
 
-**[Hello Microverse]** is a mini newbie project.
+**[Hello Microverse World]** is a mini newbie project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
